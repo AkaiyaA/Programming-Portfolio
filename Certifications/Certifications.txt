@@ -1,0 +1,11 @@
+Certifications (Raw Text)
+
+- Computer Architecture: Assembly Language
+	Offered by: Codecademy
+	Earned: May 2026
+	Link: https://www.codecademy.com/learn/computer-architecture-assembly-language
+
+- Angular Basics
+	Offered by: Simplilearn
+	Earned: May 2026
+	Link: https://lms.simplilearn.com/learning-hub/details/skillupCourse/1719
