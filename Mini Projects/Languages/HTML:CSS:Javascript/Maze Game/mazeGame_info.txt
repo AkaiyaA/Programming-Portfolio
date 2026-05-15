@@ -1,0 +1,11 @@
+This is a fun little project I've been wanting to do for a while.
+I've seen people build games using html/css, so I wanted to try and see if I could do the same.
+
+It would be nothing extensive, as I'm not a game developer, but I do think it would be interesting to say the least.
+
+The premise of the MAZE GAME is simple:
+- Player spawns in a maze
+- Player finds a key to escape
+- Player avoids obstacles/enemies
+
+Pretty simple. I want to be able to build this in raw html/css/js, and in only three files. Hopefully it goes well.
